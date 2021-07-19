@@ -1,0 +1,53 @@
+body{ 
+    text-align: center;
+    background-color: blue;
+}
+
+.homeimg{
+    width: 1000px;
+}
+
+.links{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 170px;
+    font-family: fantasy;
+    font-size: 20px;
+    background-color: crimson
+}
+
+.links:hover{
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.div1{
+    width: 300px;
+    padding: 50px;
+    height: 300px
+}
+
+#mycarousel{
+    background-color: red;
+}
+
+#mycarousel img{
+    height: 300px;
+    margin-top: 34px;
+}
+
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+#home{
+    background-color: blue;
+}
+
+#gallery{
+    background-color: greenyellow;
+}
+
